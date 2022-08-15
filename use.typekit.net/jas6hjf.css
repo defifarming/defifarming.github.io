@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * azo-sans-web:
+ *   - http://typekit.com/eulas/00000000000000007735a2d5
+ *   - http://typekit.com/eulas/000000000000000000013f4e
+ *   - http://typekit.com/eulas/00000000000000007735a2df
+ *   - http://typekit.com/eulas/000000000000000000013f8f
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-04-25 02:20:39 UTC"}*/
+
+@import url("../p.typekit.net/pe7d5e7d5.html?s=1&amp;k=jas6hjf&amp;ht=tk&amp;f=18436.18438.18443.18445&amp;a=14848542&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("af/2dbc12/00000000000000007735a2d5/30/lc150c150.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("woff2"),url("af/2dbc12/00000000000000007735a2d5/30/dc150c150.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("woff"),url("af/2dbc12/00000000000000007735a2d5/30/ac150c150.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("af/9aa4fe/000000000000000000013f4e/27/l652f652f.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/9aa4fe/000000000000000000013f4e/27/d652f652f.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/9aa4fe/000000000000000000013f4e/27/a652f652f.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("af/0240fd/00000000000000007735a2df/30/le003e003.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/0240fd/00000000000000007735a2df/30/de003e003.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/0240fd/00000000000000007735a2df/30/ae003e003.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"azo-sans-web";
+src:url("af/9dc3b1/000000000000000000013f8f/27/le196e196.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/9dc3b1/000000000000000000013f8f/27/de196e196.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/9dc3b1/000000000000000000013f8f/27/ae196e196.html?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+.tk-azo-sans-web { font-family: "azo-sans-web",sans-serif; }
